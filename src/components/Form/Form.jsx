@@ -40,7 +40,7 @@ export default function UnionForm() {
         const deathFemale2 = parseInt(data.deathFemale2);
         const deathSum2 = deathMale2 + deathFemale2;
 
-        fetch('https://sheetdb.io/api/v1/19ebt1h7vymu7', {
+        fetch('https://sheetdb.io/api/v1/1uy03dxlt0hhj', {
             method: 'POST',
             headers: {
                 'Accept': 'application/json',
